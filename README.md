@@ -1,4 +1,4 @@
-# CS210-Programming-Languages
+# Investment Calculator Project
 CS 210: Programming Languages
 <br/>
 <br/>(From the SNHU CS-210 Syllabus)
