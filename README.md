@@ -19,6 +19,9 @@ Microsoft Visual Studio 2019
 __Project Summary and Solution__<br/>
 The scenario in this academic projects involves a banking company and their goal to help students learn about handling money. Its purpose is to illustrate the principles of investments and the impact of compound interest through an interactive system.
 
+__What this Program is__<br/>
+This program is an Investment Calculator that calculates and displays the growth of an initial investment over a specified number of years, with and without additional monthly deposits. It prompts the user to input key details such as the initial investment amount, monthly deposit, annual interest rate, and investment duration, validating the inputs to ensure accuracy. The program then generates two detailed reports: one showing annual balances and interest based solely on the initial investment and annual interest, and another incorporating monthly deposits with monthly compounding interest. Using clear table formatting and precise calculations, the program provides an organized summary of the investment's performance under both scenarios.
+
 __What went well?__<br/>
 I took a modular approach to this project. I utilized functions to break the code into smaller pieces, making it more readable and manageable. I also organized the code into a class with the idea of encapsulation in mind. I validated user input very well making sure to take care of non-numeric inputs. Besides all of the functional points that make this project exceptional, I believe I made the layout for the user reports easy to read with a user-friendly design.
 
